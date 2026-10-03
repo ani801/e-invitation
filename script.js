@@ -1,6 +1,6 @@
 // Single place to edit the variable details of the invitation.
 const CONFIG = {
-  weddingDateISO: '2026-12-13T22:00:00',
+  weddingDateISO: '2026-12-13T19:00:00',
   mapsUrl: 'https://maps.app.goo.gl/WaFLC5KXUQR8fnZR9?g_st=iw'
 };
 
